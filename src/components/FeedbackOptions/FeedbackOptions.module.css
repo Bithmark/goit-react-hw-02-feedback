@@ -1,0 +1,9 @@
+.div {
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+}
+
+.btn {
+    padding: 10px;
+}
